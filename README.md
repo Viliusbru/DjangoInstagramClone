@@ -1,1 +1,1 @@
-Galimybė susikurti profilį, įkelti/ištrinti nuotraukas, komentuoti po kitų vartotojų nuotraukomis, "likinti" nuotraukas, peržiurėti kitų vartotojų įkeltų nuotraukų biblioteka.
+Ability to create a profile, upload / delete photos, comment on other users' photos, like/dislike photos, view libraries of other users photos.
